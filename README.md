@@ -1,2 +1,2 @@
-# Arquitectura-Computadores
-Prácticas Arquitectura Computadores curso 2020/2021
+# Prácticas Arquitectura de Computadores
+
